@@ -8,19 +8,22 @@ import { Quiz, Question } from './quiz.model';
   providedIn: 'root'
 })
 export class QuestionsService {
-
   constructor(private http: HttpClient) {}
 
-   public getQuizzes(){
-      return this.http.get(`../assets/quiz-list.json`).pipe(map((results: any[]) => {
-        return results.map(r => new Quiz(r.label, r.name, r.description, r.fileName));
-      })
+   public getQuizzes() {
+      return this.http.get(`../assets/quiz-list.json`).pipe(
+        map((results: any[]) => {
+          return results.map(r => new Quiz(r.label, r.name, r.description, r.fileName));
+        })
       );
    }
 
    public getQuestions(fileName: string) {
-     return this.http.get(`../assets/${fileName}.json`).pipe(map)((results: any[]) => {
-       return results.map(r => new Question(r.label, r.choices));
-     })
-   }
+    return this.http.get(`../assets/${fileName}.json`).pipe(
+      map((results: any[]) => {
+        return results.map(r => new Question(r.label, r.name));
+      })
+    );
+  }
+
 }

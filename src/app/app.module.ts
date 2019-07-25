@@ -9,6 +9,7 @@ import { ResultsComponent } from './results/results.component';
 
 import { RouterModule, Routes } from '@angular/router';
 import { WelcomeComponent } from './welcome/welcome.component';
+import { QuestionsComponent } from './questions/questions.component';
 
 const appRoutes: Routes = [
   {path: 'welcome', component: WelcomeComponent },
@@ -21,7 +22,8 @@ const appRoutes: Routes = [
     AppComponent,
     QuestionFormComponent,
     ResultsComponent,
-    WelcomeComponent
+    WelcomeComponent,
+    QuestionsComponent
   ],
   imports: [
     BrowserModule,
