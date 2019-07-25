@@ -1,0 +1,107 @@
+[
+    {
+        "label": " George St. Pierre lost his first title defense in which match?",
+        "choices": [
+        {
+            "value": "His 2007 bout with Matt Serra",
+            "correct": "true"
+        },
+        {
+            "value": "His 2008 rematch with Matt Serra",
+            "correct": "false"
+        },
+        {
+            "value": "His first match with Matt Hughes",
+            "correct": "false"
+        },
+        {
+            "value": "His 1999 bout with Rashad Evans",
+            "correct": "false"
+        }
+        ]
+    },
+    {
+        "label": "Mirko Filipovic,'Cro-Cop', suffered his first MMA knockout loss in which match?",
+        "choices": [
+        {
+            "value": "His 2005 super fight with Pride HW Champion Fedor Emelianenko",
+            "correct": "false"
+        },
+        {
+            "value": "The 'Final Conflict Absolute' bout against the 'Baby Faced Assassin', Josh Barnett",
+            "correct": "false"
+        },
+        {
+            "value": "His 2004 fight with Kevin Randleman",
+            "correct": "true"
+        },
+        {
+            "value": "His 2007 UFC bout with BJJ wizard 'Gabrial Gonzaga'",
+            "correct": "false"
+        }
+        ]
+    },
+    {
+        "label": " BJ Penn deafeated Takanori Gomi by a rear naked choke in the 3rd round, in which main event?",
+        "choices": [
+        {
+            "value": "UFC",
+            "correct": "false"
+        },
+        {
+            "value": "K1",
+            "correct": "false"
+        },
+        {
+            "value": "Pride",
+            "correct": "false"
+        },
+        {
+            "value": "Rumble on the Rock",
+            "correct": "true"
+        }
+        ]
+    },
+    {
+        "label": "Vitor Belfort is from what country?",
+        "choices": [
+        {
+            "value": "France ",
+            "correct": "false"
+        },
+        {
+            "value": "USA",
+            "correct": "false"
+        },
+        {
+            "value": "Spain ",
+            "correct": "false"
+        },
+        {
+            "value": "Brazil ",
+            "correct": "true"
+        }
+        ]
+    },
+    {
+        "label": "When did Francis Ngannou first start training in MMA?",
+        "choices": [
+        {
+            "value": "2008",
+            "correct": "false"
+        },
+        {
+            "value": "2009 ",
+            "correct": "false"
+        },
+        {
+            "value": "2010",
+            "correct": "false"
+        },
+        {
+            "value": "2013",
+            "correct": "true"
+        }
+        ]
+    }
+]
