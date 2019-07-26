@@ -1,9 +1,13 @@
+<mat-card>
 <div class="results">
     <h2>Results</h2>
     <div class="answer" *ngFor='let a of answers.values' [ngClass]='{correct: a.correct}'>
         {{a.value}}
-        {{a.correct}}
+        <span class="guide"> 
+            {{a.correct}}
+        </span>
     </div>
 
-    <a routerLink='/welcome' class='btn btn-primary'>Restart</a>
+    <button routerLink='/welcome' class='btn btn-primary'>Start Over</button>
 </div>
+</mat-card>

@@ -1,4 +1,4 @@
-<div *ngIf='quiz && !questions' class='spinner-grow textr-primary'></div>
+<mat-card><div *ngIf='quiz && !questions' class='spinner-grow textr-primary'></div>
 
 <div class='quiz'*ngIf='questions'>
 
@@ -17,3 +17,4 @@
 
     <app-results *ngIf='showResults' [answers]='answers'></app-results>
 </div>
+</mat-card>

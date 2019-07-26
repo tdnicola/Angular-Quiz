@@ -11,7 +11,10 @@ import { RouterModule, Routes } from '@angular/router';
 import { WelcomeComponent } from './welcome/welcome.component';
 import { QuestionsComponent } from './questions/questions.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+
+//styling
 import { MatCardModule } from '@angular/material';
+import {MatDividerModule} from '@angular/material/divider';
 
 const appRoutes: Routes = [
   {path: 'welcome', component: WelcomeComponent },
@@ -32,6 +35,7 @@ const appRoutes: Routes = [
     BrowserModule,
     HttpClientModule,
     [MatCardModule],
+    [MatDividerModule],
     ReactiveFormsModule,
     RouterModule.forRoot(appRoutes)
   ],
