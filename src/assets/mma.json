@@ -4,19 +4,19 @@
         "choices": [
         {
             "value": "His 2007 bout with Matt Serra",
-            "correct": "true"
+            "correct": true
         },
         {
             "value": "His 2008 rematch with Matt Serra",
-            "correct": "false"
+            "correct": false
         },
         {
             "value": "His first match with Matt Hughes",
-            "correct": "false"
+            "correct": false
         },
         {
             "value": "His 1999 bout with Rashad Evans",
-            "correct": "false"
+            "correct": false
         }
         ]
     },
@@ -25,19 +25,19 @@
         "choices": [
         {
             "value": "His 2005 super fight with Pride HW Champion Fedor Emelianenko",
-            "correct": "false"
+            "correct": false
         },
         {
             "value": "The 'Final Conflict Absolute' bout against the 'Baby Faced Assassin', Josh Barnett",
-            "correct": "false"
+            "correct": false
         },
         {
             "value": "His 2004 fight with Kevin Randleman",
-            "correct": "true"
+            "correct": true
         },
         {
             "value": "His 2007 UFC bout with BJJ wizard 'Gabrial Gonzaga'",
-            "correct": "false"
+            "correct": false
         }
         ]
     },
@@ -46,19 +46,19 @@
         "choices": [
         {
             "value": "UFC",
-            "correct": "false"
+            "correct": false
         },
         {
             "value": "K1",
-            "correct": "false"
+            "correct": false
         },
         {
             "value": "Pride",
-            "correct": "false"
+            "correct": false
         },
         {
             "value": "Rumble on the Rock",
-            "correct": "true"
+            "correct": true
         }
         ]
     },
@@ -67,19 +67,19 @@
         "choices": [
         {
             "value": "France",
-            "correct": "false"
+            "correct": false
         },
         {
             "value": "USA",
-            "correct": "false"
+            "correct": false
         },
         {
             "value": "Spain",
-            "correct": "false"
+            "correct": false
         },
         {
             "value": "Brazil",
-            "correct": "true"
+            "correct": true
         }
         ]
     },
@@ -88,19 +88,19 @@
         "choices": [
         {
             "value": "2008",
-            "correct": "false"
+            "correct": false
         },
         {
             "value": "2009 ",
-            "correct": "false"
+            "correct": false
         },
         {
             "value": "2010",
-            "correct": "false"
+            "correct": false
         },
         {
             "value": "2013",
-            "correct": "true"
+            "correct": true
         }
         ]
     }
