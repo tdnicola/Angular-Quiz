@@ -37,7 +37,7 @@ export class QuestionsComponent implements OnInit {
   }
 
   nextOrViewResults() {
-    if (this.currentQuestionIndex === this.quiz.questions.length - 1){
+    if (this.currentQuestionIndex === this.questions.length - 1){
       this.showResults = true;
       return;
     }

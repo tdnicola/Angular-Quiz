@@ -66,7 +66,7 @@
         "label": "Vitor Belfort is from what country?",
         "choices": [
         {
-            "value": "France ",
+            "value": "France",
             "correct": "false"
         },
         {
@@ -74,11 +74,11 @@
             "correct": "false"
         },
         {
-            "value": "Spain ",
+            "value": "Spain",
             "correct": "false"
         },
         {
-            "value": "Brazil ",
+            "value": "Brazil",
             "correct": "true"
         }
         ]
