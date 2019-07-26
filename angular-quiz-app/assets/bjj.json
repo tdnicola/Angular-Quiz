@@ -1,0 +1,128 @@
+[
+  {
+    "label": "Jiu-Jitsu is a combination of:",
+    "choices": [
+      {
+        "value": "Striking and submissions",
+        "correct": false
+      },
+      {
+        "value": "Striking and Judo",
+        "correct": false
+      },
+      {
+        "value": "Judo and submissions",
+        "correct": true
+      },
+      {
+        "value": "Strikes",
+        "correct": false
+      }
+    ]
+  },
+    {
+      "label": "An Americana is?",
+      "choices": [
+        {
+          "value": "A country...?",
+          "correct": false
+        },
+        {
+          "value": "An arm submission",
+          "correct": true
+        },
+        {
+          "value": "A leg lock",
+          "correct": false
+        },
+        {
+          "value": "A choke",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "A triangle choke is a form of?",
+      "choices": [
+        {
+          "value": "Strangulation choke",
+          "correct": true
+        },
+        {
+          "value": "Blood choke",
+          "correct": false
+        },
+        {
+          "value": "Anaconda choke",
+          "correct": false
+        },
+        {
+          "value": "Darce choke",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "Which position are you not likely to pull off a kneebar from?",
+      "choices": [
+        {
+          "value": "Half guard top",
+          "correct": false
+        },
+        {
+          "value": "Half guard bottom",
+          "correct": false
+        },
+        {
+          "value": "Bottom of mount",
+          "correct": true
+        },
+        {
+          "value": "Bottom guard",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "Which is not a shoulder lock?",
+      "choices": [
+        {
+          "value": "Armbar",
+          "correct": true
+        },
+        {
+          "value": "Americana",
+          "correct": false
+        },
+        {
+          "value": "Kimura",
+          "correct": false
+        },
+        {
+          "value": "Omoplata",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "Butterfly is a form of?",
+      "choices": [
+        {
+          "value": "Full mount",
+          "correct": false
+        },
+        {
+          "value": "Bottom guard",
+          "correct": true
+        },
+        {
+          "value": "Top guard",
+          "correct": false
+        },
+        {
+          "value": "Half guard",
+          "correct": false
+        }
+      ]
+    }
+  ]
