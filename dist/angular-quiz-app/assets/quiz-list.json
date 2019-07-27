@@ -1,0 +1,14 @@
+[
+    {
+        "label": "Bjj",
+        "name": "bjj",
+        "description": "Questions about bjj",
+        "fileName": "bjj.json"
+    },
+    {
+        "label": "Mma",
+        "name": "mma",
+        "description": "Questions about mma",
+        "fileName": "mma.json"
+    }
+]
